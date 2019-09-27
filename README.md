@@ -1,5 +1,4 @@
 # VIX-vs-SPX-a
-
-# 1) Created Repo to share some starter code
-# 2) Need to order data (VIX$ and SPX$) as pairs with each corresponding 'Date'
-# 3) I have code for models as "% Change in price" 
+# Extracted Excel formatted stock market data of SPX and VIX futures contracts
+# Transformed data in Python to develop Machine Learning models (Linear Regression and Long Short-Term Memory) with Scikit-Learn and TensorFlow libraries for time series analysis
+# Deep dive revealed an inverse relationship between SPX and VIX futures and supported profitable trading strategy visualized with Tableau dashboardsave code for models as "% Change in price" 
